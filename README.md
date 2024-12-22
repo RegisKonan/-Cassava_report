@@ -1,2 +1,2 @@
-# -Cassava_report
+# Cassava_report
 Cassava Leaf Disease Detection
